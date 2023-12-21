@@ -47,5 +47,14 @@ The team has leveraged the latest advancements in Deep Learning and Generative A
 
 #### Fine-tuned LLaMa2 config. files : [click here](https://drive.google.com/drive/folders/1zWI5dfHBm5Ytf8OJxKqazWytOT_OvxVD?usp=sharing)
 
+## Inference
+
+### Prerequisites
+1. You need to create an account on ngrok and use your own API tokens in the provided fields in the ipynb file.
+2. Download models from [here](https://drive.google.com/drive/folders/1QttHF2rYr5xGG3oaMLyHyLP0ooPK4Awb?usp=sharing). Replace the paths according to your directory structure.
+3. We have used Kaggle to run the notebooks. We recommend using an environment which has access to a GPU otherwise the models may not work correctly.
+
+### Running Inference
+Once you have completed all the steps mentioned above, run the notebook 'Task1_Deployment.ipynb' for Task 1, and the notebook 'task-2-deployed.ipynb' for Task 2.
 
 
