@@ -44,9 +44,6 @@ The team has leveraged the latest advancements in Deep Learning and Generative A
      
 ![flow2](https://github.com/JAYESH1304/Adobe-Behavior-Simulation-Challenge/assets/95133511/f5492d15-77c9-484c-8a30-cf9435457216)
 
-
-#### Fine-tuned LLaMa2 config. files : [click here](https://drive.google.com/drive/folders/1zWI5dfHBm5Ytf8OJxKqazWytOT_OvxVD?usp=sharing)
-
 ## Inference
 
 ### Prerequisites
@@ -54,7 +51,7 @@ The team has leveraged the latest advancements in Deep Learning and Generative A
 2. Download models from [here](https://drive.google.com/drive/folders/1QttHF2rYr5xGG3oaMLyHyLP0ooPK4Awb?usp=sharing). Replace the paths according to your directory structure.
 3. We have used Kaggle to run the notebooks. We recommend using an environment which has access to a GPU otherwise the models may not work correctly.
 
-### Running Inference
+### Using the App
 Once you have completed all the steps mentioned above, run the notebook 'Task1_Deployment.ipynb' for Task 1, and the notebook 'task-2-deployed.ipynb' for Task 2.
 
 
