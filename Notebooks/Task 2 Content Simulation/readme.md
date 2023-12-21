@@ -26,3 +26,11 @@ This repository provides a series of Jupyter notebooks designed to convert media
 ### 4. Inference with Llama2 (`Inference_Llama2.ipynb`)
 - **Purpose**: Generates the final text output based on the combined prompt using the Llama2 language model.
 - **Outputs**: Final generated text that reflects the content and context of the original media and its metadata.
+
+### 5. Calculating BLEU Score (`calculate_bleu_score.ipynb`)
+- **Purpose**: Calculate BLEU score for the outputs generated from finetuned Vicuna and LLaMa2 models.
+- **Outputs**: BLEU score values for the finetuned models.
+
+### 6. Deploying Task-2 Models (`task-2-deployed.ipynb`)
+- **Purpose**: Deploy Task-2 to see realtime inference for various inputs.
+- **Outputs**: A streamlit app deployed using ngrok with input fields and a tweet prediction output.
