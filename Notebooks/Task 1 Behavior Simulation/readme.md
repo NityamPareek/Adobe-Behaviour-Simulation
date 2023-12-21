@@ -38,6 +38,5 @@ This repository contains a sequence of Jupyter notebooks designed to perform a r
   - Regressor 3: CatBoost
   - Regressor 4: CatBoost
   - Regressor 5: CatBoost
-  - Regressor 6: XGBoost
-  - Regressor 7: XGBoost
+    
 - **Outputs**: Predictive models capable of estimating the number of likes for new, unseen data based on the bucket classification followed by regression.
