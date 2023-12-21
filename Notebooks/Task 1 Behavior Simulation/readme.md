@@ -20,15 +20,14 @@ This repository contains a sequence of Jupyter notebooks designed to perform a r
 - **Outputs**: Instructional data prompts ready for further processing.
 
 ### 3. Training and Inference with DistilBERT (`training-and-inference-distilbert.ipynb`)
-- **Purpose**: Divides the data into 7 buckets based on the number of likes using the distil-BERT model.
+- **Purpose**: Divides the data into 5 buckets based on the number of log_likes using the distil-BERT model.
 - **Buckets**:
-  - Bucket 1: 0 - 10 likes
-  - Bucket 2: 11 - 100 likes
-  - Bucket 3: 101 - 300 likes
-  - Bucket 4: 301 - 500 likes
-  - Bucket 5: 501 - 1000 likes
-  - Bucket 6: 1001 - 2500 likes
-  - Bucket 7: > 2500 likes
+  - Bucket 1: 0->2
+  - Bucket 2: 2->3.75
+  - Bucket 3: 3.75->6.25
+  - Bucket 4: 6.25->11
+  - Bucket 5: 11+ (Outliers)
+-11+: Outliers
 - **Outputs**: Classified data into respective buckets.
 
 ### 4. Regression on Buckets (`regression_on_buckets.ipynb`)
