@@ -1,7 +1,7 @@
 # Adobe-Behavior-Simulation-Challenge
 
 ## Overview
-The problem statement is based on the fundamental process of communication in marketing, focusing on behavior simulation (Task-1) and content simulation (Task-2) to assist marketers in estimating and enhancing user engagement on social media platforms. The team aims to provide solutions for simulating user behavior and creating content that effectively elicits the desired KPIs, offering valuable insights for optimizing social media strategies.
+The problem statement is based on fundamental process of communication in marketing, focusing on behavior simulation (Task-1) and content simulation (Task-2) to assist marketers in estimating and enhancing user engagement on social media platforms. The team aims to provide solutions for simulating user behavior and creating content that effectively elicits the desired KPIs, offering valuable insights for optimizing social media strategies.
 
 ## Objective
 Companies often rely heavily on leveraging the power of social media platforms such as Twitter, Instagram, Facebook, etc. to promote their products, boost sales, and build a brand identity. Thus, it is important for companies to optimize their posts to maximize user interaction and ensure efficiency in their campaigns.
